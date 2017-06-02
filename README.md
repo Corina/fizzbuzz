@@ -1,6 +1,6 @@
 # fizzbuzz
 
-### A program with the following specification:
+### A Ruby program with the following specification:
 
 - The program can be passed a number.
 - When passed a number that is a multiple of 3, the program returns the message 'Fizz'.
